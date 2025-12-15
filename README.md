@@ -1,3 +1,3 @@
 # DpyDpuCollege.demo
 This is my first Git Repository
-author-Nandini Dekar
+author-Nandini Devkar
